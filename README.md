@@ -15,6 +15,8 @@
             for (int a=0; a!=i; ++a) elem[i] = 0;
         }
         
+   https://github.com/QueenieCplusplus/Cplusplus_Structure/blob/master/README.md#initializer_list-constructor-帶有初始值列的建構式
+        
 # 解構資源
 
 為了效能，推薦使用解構式，解構式利用補數運算子 ~ 後面加上類別名稱，它與建構式互補。
