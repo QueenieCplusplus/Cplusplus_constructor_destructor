@@ -47,6 +47,8 @@ void fv(int n)
 
 // _main implicits entry/ start for main executable for arch x86_64
 int main() {
+    
     fv(3);
     return 0;
+    
 }
