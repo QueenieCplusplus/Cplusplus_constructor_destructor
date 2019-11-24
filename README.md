@@ -14,7 +14,8 @@
             // 對元素初始化
             for (int a=0; a!=i; ++a) elem[i] = 0;
         }
-        
+
+# 初始值列 
    https://github.com/QueenieCplusplus/Cplusplus_Structure/blob/master/README.md#initializer_list-constructor-帶有初始值列的建構式
         
 # 解構資源
