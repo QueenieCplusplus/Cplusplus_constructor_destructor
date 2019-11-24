@@ -8,6 +8,7 @@
 建構式利用 new 運算子在 free store 自由空間（也稱為 dynamic store 動態空間或是 heap 堆積）中配置一記憶體空間。
 
         // 下行為帶有初值列的建構式。
+        // , 符號代表序列
         Vec(int i) :elem{new int[i]}, sz{i}
 
         {
