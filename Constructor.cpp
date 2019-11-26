@@ -14,7 +14,7 @@
         }
 
    public:
-        void Stock(){}; // 建構函數 
+        ShareMarket(){}; // 建構函數 
         void before(const char *com, int n, double pr);
         void buy(int shareAmount, double dealPrice);
         void sell(int shareAmount, double dealPrice);
