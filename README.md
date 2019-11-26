@@ -71,7 +71,7 @@
             for (int a=0; a!=i; ++a) elem[i] = 0;
         }
 
-# 初始值列 
+# 初始值列 (避免資源型別窄化，徒增日後煩惱)
    https://github.com/QueenieCplusplus/Cplusplus_Structure/blob/master/README.md#initializer_list-constructor-帶有初始值列的建構式
         
 # 利用 ~ 解構資源
