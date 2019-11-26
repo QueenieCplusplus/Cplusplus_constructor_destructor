@@ -47,6 +47,7 @@
                     know_totoal();
                 }; 
 
+                // 如下等待使用者實作方法細節
                 void before(const char *com, int n, double pr);
                 void buy(int shareAmount, double dealPrice);
                 void sell(int shareAmount, double dealPrice);
